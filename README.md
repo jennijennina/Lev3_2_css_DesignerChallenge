@@ -1,6 +1,6 @@
 # Lev3_2_css_DesignerChallenge
 
-Link zur Seite: https://github.com/jennijennina/Lev3_2_css_DesignerChallenge/deployments/activity_log?environment=github-pages
+Link zur Seite: https://jennijennina.github.io/Lev3_2_css_DesignerChallenge/
 
 ## 🎓 Aufgabenstellung
 

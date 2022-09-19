@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1000px) {
+  header p {
+    font-size: 2.4rem;
+  }
+
+  main section {
+    flex-direction: column;
+  }
+
+  main section article {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 800px) and (min-width: 600px) {
+  main section {
+    background-color: #dddddd;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  header {
+    display: none;
+  }
+
+  .mobile_menu {
+    display: block;
+  }
+}
